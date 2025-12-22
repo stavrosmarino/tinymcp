@@ -12,3 +12,4 @@ go 1.22
 # guard against empty input
 # keep defaults in sync with the manifest
 # clarify the control flow
+# match the style used in the rest of the module
